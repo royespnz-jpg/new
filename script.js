@@ -14,9 +14,8 @@
    ========================================================================== */
 
 const CONFIG = {
-  /* Paste the /exec URL of your Apps Script web app between the quotes.
-     Leave it empty and the Send buttons simply stay hidden. */
-  endpoint: '',
+
+  endpoint: 'https://script.google.com/macros/s/AKfycbxA1SxxSIzfR7G6jaF-wtGQs-yeDg98z_-hRYQGcvDuXiQJ8q1sSB-XNhG3qQecfwL-cg/exec',
   maxClipSeconds: 20,
 };
 
